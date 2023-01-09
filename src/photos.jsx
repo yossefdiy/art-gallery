@@ -132,7 +132,7 @@ function Pics() {
     ]
     if (count === 56) setCount(0)
     return (
-        <div><h1>new photos</h1>
+        <div><h1 style={{ color: 'white' }} >new photos</h1>
 
             <div className={'board'}>
                 <div style={{ color: 'white' }}></div>
